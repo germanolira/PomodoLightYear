@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font: normal normal normal 1rem/1.6 Nunito Sans, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: #fff;
+}
+
+footer {
+  text-align: center;
+  margin-top: 25px;
+  color: black;
+  padding: 0px 15px 15px 15px;
+}
+
+footer a {
+  color: inherit;
+  -webkit-transition: all 0.25s ease-out;
+  -moz-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+}
+
+footer a:hover {
+  color: #05ff;
+}
